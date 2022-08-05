@@ -2,7 +2,7 @@
     flex: 0.3;
   }
   
-  .widgets__input {
+  .widgets_input {
     display: flex;
     align-items: center;
     background-color: var(--twitter-background);
@@ -12,16 +12,16 @@
     margin-left: 20px;
   }
   
-  .widgets__input > input {
+  .widgets_input > input {
     border: none;
     background-color: var(--twitter-background);
   }
   
-  .widgets__searchIcon {
+  .widgets_searchIcon {
     color: gray;
   }
   
-  .widgets__widgetContainer {
+  .widgets_widgetContainer {
     margin-top: 15px;
     margin-left: 20px;
     padding: 20px;
@@ -29,7 +29,7 @@
     border-radius: 20px;
   }
   
-  .widgets__widgetContainer > h2 {
+  .widgets_widgetContainer > h2 {
     font-size: 18px;
     font-weight: 800;
   }

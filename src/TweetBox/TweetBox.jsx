@@ -11,7 +11,8 @@ const TweetBox = () => {
             placeholder="What's happening?"
             type="text"/>
             </div>
-            <Button>tweet</Button>
+  
+            <Button className='tweetBox_tweetButton'>tweet</Button>
         </form>
     </div>
   )
